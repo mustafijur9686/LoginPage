@@ -45,12 +45,12 @@ body{
     border: 2px solid blueviolet;
     border-radius: 10px;
     outline: none;
-    margin: 25px 100px;
+    margin: 30px 100px;
     padding: 5px 10px;
     cursor: pointer;
-    font-size: 15px;
+    font-size: 14px;
     background: none;
-    font-weight: bold;
+    font-weight: inherit;
 }
 .btn:hover{
     opacity: 0.5;
